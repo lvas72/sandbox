@@ -8,7 +8,7 @@ Markdown also lets you use a bulleted list.
 * three
 
 And tables:
-|name|favorite animal|
+|Name|Favorite Animal|
 |---|---|
 |Carly|Long-beaked Echidna|
 
