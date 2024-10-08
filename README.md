@@ -5,7 +5,7 @@ You can just type text and it will be formatted.
 Markdown also lets you use a bulleted list.
 * one
 * two
-* three
+* three and four
 
 And tables:
 |Name|Favorite Animal|
