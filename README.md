@@ -13,7 +13,7 @@ Markdown also lets you use a bulleted list.
 And tables:
 |Name|Favorite Animal|
 |---|---|
-|Carly|Short-beaked Echidna|
+|Carly|Echidna|
 
 ## Subheadings
 Subheadings are useful to help you structure your documents.
