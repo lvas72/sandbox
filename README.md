@@ -14,6 +14,7 @@ And tables:
 |Name|Favorite Animal|
 |---|---|
 |Carly|Echidna|
+|Jaber|Tiger|
 
 ## Subheadings
 Subheadings are useful to help you structure your documents.
