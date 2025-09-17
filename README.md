@@ -16,6 +16,7 @@ And tables:
 |---|---|
 |Carly|Echidna|
 |Jaber|Tiger|
+|Bob|Penguin|
 
 ## Subheadings
 Subheadings are useful to help you structure your documents.
