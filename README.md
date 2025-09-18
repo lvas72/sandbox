@@ -3,23 +3,24 @@
 You can just type text and it will be formatted.
 
 Markdown also lets you use a bulleted list.
-* one
+* ones
 * two
 * three and four
-* five
 * six
+* seven
+* eight
+* twelve
 
-####
 Account name: Interoperable and Distributed Data Ecosystem for Climate-smart Agricultural and Food
-####
-
 
 And tables:
 |Name|Favorite Animal|
 |---|---|
 |Carly|Echidna|
-|Jaber|Tiger|
 |Bob|Penguin|
+|Dan|Elephant|
+|Jane|Filly|
+
 
 ## Subheadings
 Subheadings are useful to help you structure your documents.
