@@ -3,20 +3,19 @@
 You can just type text and it will be formatted.
 
 Markdown also lets you use a bulleted list.
-* one
+* ones
 * two
 * three and four
-* five
 * six
-
+* seven
 
 
 And tables:
 |Name|Favorite Animal|
 |---|---|
 |Carly|Echidna|
-|Jaber|Tiger|
 |Bob|Penguin|
+|Jane|Filly|
 
 ## Subheadings
 Subheadings are useful to help you structure your documents.
