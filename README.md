@@ -8,6 +8,7 @@ Markdown also lets you use a bulleted list.
 * three and four
 * five
 * six
+* seven
 
 
 
@@ -17,6 +18,7 @@ And tables:
 |Carly|Echidna|
 |Jaber|Tiger|
 |Bob|Penguin|
+|Jane|Filly|
 
 ## Subheadings
 Subheadings are useful to help you structure your documents.
