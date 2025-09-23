@@ -2,6 +2,8 @@
 
 You can just type text and it will be formatted.
 
+**The Black bear like blueberries!**
+
 ## lists
 
 Markdown also lets you use a bulleted list.
@@ -13,6 +15,9 @@ Markdown also lets you use a bulleted list.
 * eight
 * nine
 * twelve
+* twenty
+* Thirteen
+* Fourteen
 
 ## Nested Lists
 
@@ -24,6 +29,7 @@ Markdown also lets you use a bulleted list.
 3. Second level
    - Sub item again
    - Sub item 2
+   - Sub Sub item :)
 
 ---
 
@@ -37,6 +43,8 @@ Markdown also lets you use a bulleted list.
 |Jane|Filly|
 |Jerome|Grouse|
 |Jacky|Cat|
+|Shiro| Snakes|
+|Ross|Jay|
 ---
 
 
@@ -47,13 +55,16 @@ Markdown also lets you use a bulleted list.
 ***Bold and italic***  
 ~~Strikethrough~~  
 **Hello**
+**sing sing**
 ---
 
 ## Blockquotes
 
 > This is a blockquote.  
 > It can span multiple lines.  
-> > You can even nest blockquotes!  
+> > You can even nest blockquotes!
+> > wow!!!
+> but what is the use of this? 
 
 ---
 
