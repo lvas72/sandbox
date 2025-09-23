@@ -2,6 +2,8 @@
 
 You can just type text and it will be formatted.
 
+**The Black bear like blueberries!**
+
 ## lists
 
 Markdown also lets you use a bulleted list.
@@ -12,7 +14,8 @@ Markdown also lets you use a bulleted list.
 * seven
 * eight
 * twelve
-* thirteen
+* Thirteen
+
 
 ## Nested Lists
 
