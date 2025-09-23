@@ -11,6 +11,7 @@ Markdown also lets you use a bulleted list.
 * six
 * seven
 * eight
+* nine
 * twelve
 
 ## Nested Lists
@@ -22,6 +23,7 @@ Markdown also lets you use a bulleted list.
      - Sub-sub item 2
 3. Second level
    - Sub item again
+   - Sub item 2
 
 ---
 
@@ -34,6 +36,7 @@ Markdown also lets you use a bulleted list.
 |Dan|Elephant|
 |Jane|Filly|
 |Jerome|Grouse|
+|Jacky|Cat|
 ---
 
 
@@ -43,7 +46,7 @@ Markdown also lets you use a bulleted list.
 **Bold**  
 ***Bold and italic***  
 ~~Strikethrough~~  
-
+**Hello**
 ---
 
 ## Blockquotes
@@ -102,6 +105,6 @@ Three dashes or underscores make a line:
 ## Emoji
 
 You can use emoji shortcodes in many Markdown renderers:  
-:coffee: :tada: :sparkles: :penguin:
+:coffee: :tada: :sparkles: :penguin: :heart:
 
 ---
