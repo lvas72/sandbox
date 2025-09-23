@@ -12,6 +12,7 @@ Markdown also lets you use a bulleted list.
 * seven
 * eight
 * twelve
+* thirteen
 
 ## Nested Lists
 
@@ -22,6 +23,7 @@ Markdown also lets you use a bulleted list.
      - Sub-sub item 2
 3. Second level
    - Sub item again
+   - Sub Sub item :)
 
 ---
 
@@ -34,6 +36,7 @@ Markdown also lets you use a bulleted list.
 |Dan|Elephant|
 |Jane|Filly|
 |Jerome|Grouse|
+|Ross|Jay|
 ---
 
 
@@ -43,6 +46,7 @@ Markdown also lets you use a bulleted list.
 **Bold**  
 ***Bold and italic***  
 ~~Strikethrough~~  
+**sing sing**
 
 ---
 
@@ -50,7 +54,9 @@ Markdown also lets you use a bulleted list.
 
 > This is a blockquote.  
 > It can span multiple lines.  
-> > You can even nest blockquotes!  
+> > You can even nest blockquotes!
+> > wow!!!
+> but what is the use of this? 
 
 ---
 
